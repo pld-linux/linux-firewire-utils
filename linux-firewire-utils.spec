@@ -1,12 +1,12 @@
 Summary:	Linux FireWire utilities
 Summary(pl.UTF-8):	Narzędzia FireWire dla Linuksa
 Name:		linux-firewire-utils
-Version:	0.5.0
+Version:	0.5.1
 Release:	1
 License:	GPL v2
 Group:		Applications
 Source0:	https://www.kernel.org/pub/linux/utils/ieee1394/%{name}-%{version}.tar.xz
-# Source0-md5:	89107880559023bc0f35ff6498b70efa
+# Source0-md5:	65537c716735fff29b99360feb9bd8cd
 URL:		https://git.kernel.org/pub/scm/utils/ieee1394/linux-firewire-utils.git/
 BuildRequires:	meson
 BuildRequires:	ninja >= 1.5
